@@ -1,2 +1,2 @@
 # yc_scripts
-вввввв
+TEST
