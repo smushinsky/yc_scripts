@@ -108,7 +108,7 @@ yc compute instance create \
 fi
 ```
 
-## ### Virtual machine removing script:
+### Virtual machine removing script:
 ```bash
 #!/bin/bash
 
