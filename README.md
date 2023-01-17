@@ -1,4 +1,4 @@
-# __Yandex Cloud Scripts__
+# Yandex Cloud Scripts
 
 ## Network and subnet scripts.
 
