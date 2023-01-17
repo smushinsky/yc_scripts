@@ -1,5 +1,8 @@
 # Yandex Cloud Scripts
-## Network and subnet creation
+
+## Network and subnet scripts.
+
+### Network and subnet creation script:
 ```Bash
 #!/bin/bash
 
@@ -38,7 +41,7 @@ yc vpc subnet create \
         echo "Subnet successfully created."
 fi
 ```
-# Network and subnet removing script:
+### Network and subnet removing script:
 ```bash
 #!/bin/bash
 
