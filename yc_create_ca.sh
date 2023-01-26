@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install easy-rsa
+
 read -p "Enter your login name: " login
 
 mkdir /home/$login/easy-rsa
